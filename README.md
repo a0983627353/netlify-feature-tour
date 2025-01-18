@@ -44,4 +44,4 @@ npm install -g netlify-cli
 # 5. Serve your site using Netlify Dev
 netlify dev
 
-```
+```打開`*
